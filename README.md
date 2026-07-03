@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multiclass Image Classification — Kaggle 1st Place
 
 CNN ensemble trained **from scratch** on low-resolution RGB images (no pretrained weights).
@@ -72,3 +73,6 @@ MS Artificial Intelligence @ Grand Valley State University
 
 - LinkedIn: https://www.linkedin.com/in/mortadha-ghnimi-021183252/
 - GitHub: https://github.com/morta00
+=======
+# kaggle-multiclass-ensemble
+>>>>>>> 2c890694763c1b07ed089351923e18cb40ea0602
