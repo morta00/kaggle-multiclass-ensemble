@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Multiclass Image Classification — Kaggle 1st Place
 
 CNN ensemble trained **from scratch** on low-resolution RGB images (no pretrained weights).
