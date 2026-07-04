@@ -20,17 +20,6 @@ CNN ensemble trained **from scratch** on low-resolution RGB images (no pretraine
 6. **TTA** — 15 augmented passes per model at inference
 7. **Ensemble** — weights chosen by grid search on the validation set
 
-## Repo layout
-
-```
-kaggle-multiclass-ensemble/
-├── notebooks/
-│   └── Kaggle_Competition.ipynb
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
-
 ## Requirements
 
 - Python 3.10+
@@ -73,5 +62,3 @@ MS Artificial Intelligence @ Grand Valley State University
 
 - LinkedIn: https://www.linkedin.com/in/mortadha-ghnimi-021183252/
 =======
-# kaggle-multiclass-ensemble
->>>>>>> 2c890694763c1b07ed089351923e18cb40ea0602
